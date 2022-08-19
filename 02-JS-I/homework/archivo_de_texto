@@ -1,0 +1,11 @@
+variable= una variable es un elemento el cual ocupa un espacio de memoria en el que se puede almacenar datos, ya sea un strings, un numero, un booleano, entre otros
+
+strings= es una cadena de caracteres pueden ser palabras, o numeros. Se distinguen porque esta encerrado entre comillas dobles o simples
+
+funciones(argumentos, return)= las funciones son bloques de codigo las cuales se ejecutan cuando se las llama y pueden contener argumentos, que son variables que solamente se ejecutan en el interior de la misma, y no devuelven ningun dato a menos que se utilice el return, con este se puede retirar los datos de la funcion y poder utilizarlos en el programa
+
+declaraciones if= las declaraciones if es una palabra reservada del programa que se utiliza para controlar que parte del programa se quiere ejecutar y cual no, y para que se ejecute depende de la condicion que se le da al if.
+
+valores booleanos(true, false)= los valores booleanos son dos y es por esto que se lo asocia con el lenguaje binario(0 y 1), el verdadero se asocia con el 1 y el 0 se asocia con el falso. Y a su vez el binario es utilizado para dar la orden de encendido(1) o de apagado (0)
+
+
