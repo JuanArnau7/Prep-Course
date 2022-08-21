@@ -1,0 +1,5 @@
+for = el for es un tipo de estructura que la funcion que tiene es que va a ejecutar un bloque de codigo mientras que la condicion que tiene sea vedadera, ademas puede modificar la variable dentro de su condicion. y es muy util para repetir el bloque una cantidad conocida de veces
+
+&& || ! = estos tres simbolos son operadores logicos, es decir, que evaluan una condicion mediante la logica, cada uno tiene una funcion distinta, por ejemplo "&&" significa "y" o "and" y la logica que tiene es que si los dos valores que compara son verdaderos, devuelve verdadero y si alguno o los dos son falsos, devuelve falso.
+"||" significa "o" o "or" y tiene la logica de que si los dos valores o alguno de los dos valores son verdaderos, entonces devuelve verdadero pero en el caso de que los dos sean falsos entonces devuelve falso
+"!" significa distinto "no" o "not", es muy utilizado antes de un igual ya que lo que hace es negar la igualdad, tambien se puede utilizar para invertir los valores de "&&" y de "||"
