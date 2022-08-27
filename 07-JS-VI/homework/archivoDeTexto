@@ -1,0 +1,1 @@
+funciones callback : este tipo de funcion es aquella la cual se pasa a otra funcion por su argumento, y luego se invoca dentro de esta funcion para hacer alguna accion.
