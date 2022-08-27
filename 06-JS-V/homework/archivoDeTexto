@@ -1,0 +1,3 @@
+prototype = el prototipo es una especie de funcion o mecanismo que posee el lenguaje para indicarle o asignarle a un objeto cuales son sus metodos o propiedades o de que otro objeto tomarlas.
+
+constructores de clases = los constructores de clases son plantillas las cuales se unas para modularizar y no repetir codigo de manera innecesaria, y con este lo que se puede hacer es generar objetos con las mismas propiedades y metodos.
