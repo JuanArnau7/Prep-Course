@@ -1,0 +1,12 @@
+objetos: los objetos en js fueorn creados con el fin de parecerse o de modelar los objetos de la vida real, ya que apuntan a los problemas que se pretenden solucionar.
+Hay algunos objetos ya predefinidos en el programa, y ademas nos otorga la libertad de crear cuantos necesitemos.
+Objetos ademas poseen propiedades y metodos.
+
+propiedades: Las propiedades de los objetos son una clase de variable que estan unidadas al objeto, lo describen, nos indican como esta formado.
+
+metodos: los metodos son funciones que estan dentro de un objeto, estas son las que le dan la funcionalidad, y nos describen que es lo que se puede hacer con el objeto en cuestion
+
+bucle for: el bucle for nos permite repetir una accion una cantidad determinada de veces, este cuenta con 3 parametros, el de declaracion, la condicion y modificacion de la variable
+
+notacion de puntos vs notacion de corchetes:
+La principal diferencia esta en su sintaxis(forma de escribirlo dentro del codigo) debido a la variable en la primera se escribe luego de un punto y en la segunda se escribe encerrada entre corchetes, ademas la principal diferencia es que al pasarle por notacion de corchetes no tiene limitacion del tipo de dato entrante ni la forma en la que èste estè escrito, y en la notacion por puntos hay valores no admitidos
